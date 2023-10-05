@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+
+}
+#circle{
+    height:250px;
+    width:250px;
+    border:12px solid whitesmoke;
+    border-radius:100%;
+    display:flex;
+    margin-top:220px;
+    margin-left:520px;
+    justify-content:center;
+    align-items:center;
+}
+div{
+    color:whitesmoke;
+    font-size:40px;
+font-family:Arial;
+    
+}
+.Esame{
+    rotate:-30deg;
+}
